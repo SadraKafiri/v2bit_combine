@@ -5,6 +5,4 @@
     ],
   },
   "dart.lineLength": 80,
-  "markdown.extension.toc.levels": "2..4",
-  "dart.flutterSdkPath": "~/fvm/versions/3.22.2"
 }
